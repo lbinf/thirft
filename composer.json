@@ -1,0 +1,27 @@
+{
+  "name": "lbinf/thrift",
+  "description": "This is php yii2 thrift",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lbinf",
+      "email": "290887098@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.4"
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+
+    "psr-4": {
+      "Thrift\\": "src/"
+    },
+    "files": [
+      ""
+    ]
+
+  }
+}
